@@ -2,7 +2,7 @@
 
 ## Cel aplikacji
 
-Celem aplikacji jest prowadzenielisty użytkowników.
+Celem aplikacji jest prowadzenie listy użytkowników.
 
 Aplikacja umożliwi dostęp do listy użytkowników /user/list
 Umożliwi też dodanie użytkownika /user/add
